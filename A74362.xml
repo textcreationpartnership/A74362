@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for impresting of sea-men.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74362</idno>
+            <idno type="STC">Thomason E1060_84</idno>
+            <idno type="STC">ESTC R208814</idno>
+            <idno type="EEBO-CITATION">99867736</idno>
+            <idno type="PROQUEST">99867736</idno>
+            <idno type="VID">169040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169040)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for impresting of sea-men.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>723-726 [i..e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and Iohn Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649 [i.e. 1650]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print dated 2 March 1649.</note>
+                  <note>Caption title; ornament above caption; intial letter; text in black letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The years are given according to Lady Day dating.</note>
+                  <note>Signatures: 6R² . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Last word of first line of text: "effectual"; first word of line below initial: "the"; last word of last full line on page: "Councel".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Impressment --  Law and legislation --  Early works to 1800.</term>
+               <term>Naval law --  England --  Early works to 1800.</term>
+               <term>Sailors --  England --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="723" facs="tcp:169040:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT FOR Impreſting of Sea-men.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas the effectual &amp; ſpeedy ſetting forth of the Fleet or Fleets for the next years ſer<g ref="char:EOLhyphen"/>vice, and the well Manning thereof, is at this time of great ne<g ref="char:EOLhyphen"/>ceſſity, conſidering not onely the home-bred di<g ref="char:EOLhyphen"/>ſtractions of this Na<g ref="char:EOLhyphen"/>tion and of <hi>Ireland,</hi> but the great preparations which are making al<g ref="char:EOLhyphen"/>ready in Forraign parts, in ayd and aſſiſtance of the Malignant, Popiſh, and ill-affected Party in theſe Nations; Be it therefore Enacted and Ordained by this preſent Parliament, and by the Authority thereof, That in caſe the Councel
+<pb n="724" facs="tcp:169040:2"/>
+               <!-- PDF PAGE 26 -->
+of State, or the Admirals of the Fleet or Fleets for the time being appointed by Parliament ſhall finde, That notwithſtanding the Act for En<g ref="char:EOLhyphen"/>couragement of Officers and Mariners, ap<g ref="char:EOLhyphen"/>pointed and provided for the inducement of Sea<g ref="char:EOLhyphen"/>men to engage more willingly in the Service of this Commonwealth, yet there ſhall not be the appointed number of Sea-men voluntarily En<g ref="char:EOLhyphen"/>gaging in this Service in due time, for the ſet<g ref="char:EOLhyphen"/>ting forth of the ſaid Fleet or Fleets, but that there be a neceſſity of Impreſting of Mariners for this Service; Then the Councel of State, or the ſaid Admirals or any two of them, ſhall or may at any time or times, from the Firſt day of <hi>April,</hi> One thouſand ſix hundred and fifty, un<g ref="char:EOLhyphen"/>til the Firſt day of <hi>April,</hi> which ſhall be in the year One thouſand ſix hundred fifty one, by their Commiſſioner or Commiſſioners, Officer or Officers authorized thereunto, by warrant un<g ref="char:EOLhyphen"/>der their or any two of their Hands and Seals, or any one authorized by the other two, Raiſe, Levy and Impreſt, ſuch and ſo many Mariners, Sailors, Watermen, Chyrurgions, Gunners, Ship-Carpenters, Cawkers, Coopers and Whoymen, as alſo Carmen for carriage of Vi<g ref="char:EOLhyphen"/>ctuals, &amp;c. as ſhall be requiſite and neceſſary for the Service aforeſaid, or for any ſuch further de<g ref="char:EOLhyphen"/>fence for the good People of <hi>England</hi> and <hi>Ireland;</hi> which ſaid Mariners, Sailors, and other ſuch perſons, and ſuch other perſons ſo to be Levyed and Impreſted as aforeſaid, and every of them, ſhall have paid and delivered unto him or them upon ſuch his or their Impreſting, by the per<g ref="char:EOLhyphen"/>ſon that ſhall ſo Impreſt him, for Conduct-money for every Mile from the place where he ſhall be ſo Impreſt, to the Ship or place where he ſhall be appointed to make his repair, the ſum
+<pb n="725" facs="tcp:169040:2"/>
+               <!-- PDF PAGE 26 -->
+of One peny half peny <hi>per</hi> Mile to each man; and the like ſum of One peny half peny for every Mile from the place of his diſcharge, unto the place of his abode; and ſhall be allowed for this ſervice, the ſame wages and entertainments in all reſpects which hath been allowed by the Par<g ref="char:EOLhyphen"/>liament this laſt year, to any ſuch perſon or per<g ref="char:EOLhyphen"/>ſons imployed in the ſaid ſervice: And if in the caſe aforeſaid, any Mariner, Saylor, Waterman, Chyrurgion, Gunner, Ship-Carpenter, Caw<g ref="char:EOLhyphen"/>ker, Whoyman or Carman, ſhall wilfully refuſe to be Impreſted in and for the ſaid ſervice, or ſhall voluntarily hide or abſent himſelf at the time of ſuch Preſs, to avoid the ſaid Service; or receiving his ſaid Conduct moneys, do not appear at ſuch places and times as by his Ticket he is appointed, That then any ſuch per<g ref="char:EOLhyphen"/>ſon or perſons ſo offending, ſhall ſuffer impriſon<g ref="char:EOLhyphen"/>ment for the ſpace of three Moneths, without Bail or Mainprize. Provided always, and be it Enacted and Ordained, That no money or other reward ſhall be taken directly or indirectly, nor any corrupt practice uſed by any the perſons authorized by vertue of this Act, in or for the preſsing, changing, ſparing or diſcharging of any perſon or perſons, or be Impreſt as afore<g ref="char:EOLhyphen"/>ſaid, as they will anſwer ſuch offence at their utmoſt perils before the Parliament, or ſuch as ſhall by Parliament be authorized thereunto: And all Iuſtices of the Peace, Majors, Bay<g ref="char:EOLhyphen"/>liffs, Conſtables, and all other inferior Officers, are hereby required and enjoyned to be ayding and aſsiſting from time to time to the perſons authorized, or to be authorized by vertue of this Act, according to the true intent and meaning thereof. Provided always, That this Act ſhall not extend to the preſſing of any Maſter,
+<pb n="726" facs="tcp:169040:3"/>
+               <!-- PDF PAGE 27 -->
+Maſters-mate, Gunner, Carpenter or Boat<g ref="char:EOLhyphen"/>ſwain of any Ship or Veſſel that is or ſhall be in imployment. And laſtly, for the fur<g ref="char:EOLhyphen"/>ther and better encouragement of Seamen and Watermen to apply themſelves the more wil<g ref="char:EOLhyphen"/>lingly to this ſervice, It is further Enacted and Ordained, and be it Enacted and Ordained by this preſent Parliament, and the Authority thereof, That all Mariners, Saylors, and likewiſe all Watermen who have ſerved an Ap<g ref="char:EOLhyphen"/>prenticeſhip by the ſpace of ſeven years in their ſaid Profeſſions, or that are Servants and Apprentices by Indenture to any ſuch Water<g ref="char:EOLhyphen"/>man, ſhall hereby be freed and exempted from being preſted to ſerve as Soldiers in any Land ſervice.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 2<hi rend="sup">o</hi> Martii, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>Iohn Field,</hi> Printers to the Parliament of <hi>England,</hi> 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
